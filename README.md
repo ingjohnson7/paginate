@@ -1,0 +1,1 @@
+## A simple pagination example in Javascript
